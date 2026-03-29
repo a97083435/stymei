@@ -74,19 +74,17 @@ var index_config_default = {
     {name: "✈️关注TG频道@stymei",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
     {name: "📡IPTV直播",
-      address: "https://t4.jsnzkpg.uk"},
+      address: "https://iptv.jsnzkpg.uk"},
     {name: "🐟斗鱼直播",
       address: "https://catbox.n13.club/ai/斗鱼直播.php"},
       {name: "🐯虎牙直播",
       address: "https://php.doube.eu.org/spider/php/虎牙直播.php"},
     {name: "🅱️哔哩直播",
       address: "https://bilibili.jsnzkpg.uk"},
-    {name: "🔞大秀直播",
-      address: "https://yellow.jsnzkpg.workers.dev"},
-    {name: "🔞黄色网站",
-      address: "https://19q.cc/api.php/provide/vod"},
     {name: "🎞️影视爬虫",
       address: "https://dy.7772888.xyz/api.php/tvbox"},
+    {name: "▶️Emby嗅探",
+      address: "http://zhangqun1818.serv00.net:6628/?spider=emby"},
     {name: "🍉瓜子影视",
       address: "https://catbox.n13.club/ai/瓜子影视.php"},
    {name: "🐰优兔影视",
@@ -108,11 +106,15 @@ var index_config_default = {
     {name: "🇨🇳央视栏目",
       address: "https://catbox.n13.club/18/央视影视.php"},
     {name: "📻凤凰FM",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"}
+      address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"},
+    {name: "🐰兔贝少儿",
+      address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
 ]},
   cms: {list: [
-{name: "⏳暴风采集",
-address: "http://by.bfzyapi.com/api.php/provide/vod"}
+{name: "🌪️暴风采集",
+address: "http://by.bfzyapi.com/api.php/provide/vod"},
+{name: "🪐iQiYi采集",
+address: "https://iqiyizyapi.com/api.php/provide/vod"}
 ]},
   alist: [
     {
