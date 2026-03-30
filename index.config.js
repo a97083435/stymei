@@ -75,16 +75,16 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
     {name: "📡IPTV直播",
       address: "https://iptv.jsnzkpg.uk"},
-    {name: "🐟斗鱼直播",
-      address: "https://php.doube.eu.org/spider/php/斗鱼直播.php"},
       {name: "🐯虎牙直播",
       address: "https://php.doube.eu.org/spider/php/虎牙直播.php"},
     {name: "🅱️哔哩直播",
       address: "https://bilibili.jsnzkpg.uk"},
     {name: "🎞️影视爬虫",
       address: "https://dy.7772888.xyz/api.php/tvbox"},
-    {name: "▶️Emby嗅探",
+    {name: "🍟Emby嗅探",
       address: "http://zhangqun1818.serv00.net:6628/?spider=emby"},
+    {name: "⚡️VIP嗅探",
+      address: "https://php.doube.eu.org/spider/php/官方资源.php"},
     {name: "🍁非凡PHP",
       address: "https://php.doube.eu.org/spider/php/非凡资源.php"},
     {name: "🐣天堂PHP",
@@ -112,7 +112,7 @@ var index_config_default = {
 {name: "🌪️暴风采集",
 address: "http://by.bfzyapi.com/api.php/provide/vod"},
 {name: "🪐iQiYi采集",
-address: "https://iqiyizyapi.com/api.php/provide/vod"}
+address: "https://iqiyizyapi.com/api.php/provide/vod"},
 ]},
   alist: [
     {
