@@ -72,7 +72,7 @@ var index_config_default = {
   },
  t4: {list: [
     {name: "✈️关注TG频道@stymei",
-      address: "https://movie.jsnzkpg.ccwu.cc/home"},
+      address: "https://movie.jsnzkpg.ccwu.cc"},
     {name: "⚽2026美加墨世界杯",
       address: "https://sports.jsnzkpg.ccwu.cc"},
     {name: "📡IPTV直播",
