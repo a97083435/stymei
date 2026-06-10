@@ -66,7 +66,8 @@ var index_config_default = {
            { address: "https://fjj0417.dpdns.org/87654321", name: "默认2" }, 
            { address: "http://127.0.0.1:9321/87654321", name: "默认3" }, 
            { address: "http://47.107.188.112:6008/87654321", name: "默认4" }, 
-           { address: "http://ecs.dysobo.cn:9321/87654321", name: "默认5" }
+           { address: "http://ecs.dysobo.cn:9321/87654321", name: "默认5" },
+           { address: "https://dm.626258.xyz/87654321", name: "默认6" }
           ],
     autoPush: true
   },
@@ -78,9 +79,9 @@ var index_config_default = {
     {name: "📡IPTV直播",
       address: "https://t4.jsnzkpg.ccwu.cc"},
       {name: "🐯虎牙直播",
-      address: "https://php.doube.eu.org/spider/php/虎牙直播.php"},
-    {name: "🐟斗鱼直播",
-      address: "https://php.doube.eu.org/spider/php/斗鱼直播.php"},
+      address: "https://huya.jsnzkpg.ccwu.cc"},
+    {name: "🏀体育直播",
+      address: "https://sports1.jsnzkpg.ccwu.cc"},
     {name: "🦄独播影视",
       address: "http://bob2.hkt.net.cn/miraplay/dbo.php"},
     {name: "🐣天堂PHP",
