@@ -85,7 +85,7 @@ var index_config_default = {
       {name: "🐟斗鱼直播",
       address: "https://douyu.jsnzkpg.ccwu.cc"},
       {name: "🍿YY直播",
-      address: "https://huya.jsnzkpg.ccwu.cc"},
+      address: "https://yy.jsnzkpg.ccwu.cc"},
     {name: "🦄独播影视",
       address: "http://bob2.hkt.net.cn/miraplay/dbo.php"},
     {name: "🐣天堂PHP",
